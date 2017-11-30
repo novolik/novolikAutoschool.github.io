@@ -1,0 +1,206 @@
+*{
+	outline: none;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+header{
+	/*margin-top: -38px;*/
+	background-color: black;
+	background-image: url(img/mainFon.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+}
+
+.myContainer{
+	margin: 0 auto;
+	padding: 0;
+	width: 70%;
+	min-height: 140px;
+	font-family: Arial, sans-serif;
+}
+
+.logo{
+	margin-top: 7px;
+	margin-left: -29px;
+	float: left;
+}
+
+.logo li{
+	float: left;
+	list-style: none;
+}
+
+.logo h2{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+
+nav{
+	margin-top: 13px;
+	float: right;
+}
+
+.menu{
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.menu li{
+	padding: 45px 30px 0 0 ;
+	list-style: none;
+	float: left;
+	display: block;
+}
+
+
+.menu li p{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	color: white;
+}
+
+.titles{
+	/*position: absolute;*/
+	text-align: center;
+}
+
+.titles h1 {
+	display: inline-block;
+	font-size: 3.9em;
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	width: 100%;
+	margin-top: 22%;
+}
+
+.titles_second{
+	text-align: center;
+	color: #ef9c26;
+	font-size: 1em;
+	text-transform: uppercase;
+}
+
+#back{
+	text-align: center;
+	margin-top: 2%;
+}
+
+.achivement{
+	text-align: center;
+	background-color: #3b3b3b;
+	width: 100%;
+	height: 250px;
+}
+
+.achivement h4{
+	color: white;
+	margin-top: -12px;
+}
+
+.text{
+	margin-top: 55px;
+	height: 500px;
+	width: 50%;
+	float: left;
+	/*border: 1px solid red;*/
+}
+
+.text h2{
+	color: black;
+	font-weight: bold;
+}
+
+.curseList{
+	margin-top: 30px;
+	margin-left: -20px;
+
+}
+
+.curseList li{
+	font-family: Arial;
+	font-size: 1.3em;
+	padding: 20px 10px 10px 1px;
+}
+
+.pic{
+	margin-top: 90px;
+	float: right;
+}
+
+.pic img{
+	box-shadow: 3px 7px 13px silver;
+}
+
+.pic p{
+	font-size: 1.3em;
+	padding: 10px;
+	padding-left: 150px;
+}
+
+.cards h2{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.9em;
+	font-weight: 600;
+}
+
+.cards img{
+	box-shadow: 3px 7px 13px silver;
+}
+
+.cards{
+	text-align: center;
+}
+
+.contacts{
+	float: left;
+	margin-top: 100px;
+}
+
+.contacts ul{
+	list-style: none;
+}
+
+.contacts li{
+	font-size: 1.3em;
+}
+
+.navigate{
+	margin-top: 100px;
+	float: right;
+	margin-right: 35px;
+}
+
+.navigate li{
+	text-align: right;
+	font-size: 1.3em;
+}
+
+.navigate ul{
+	list-style: none;
+}
+
+.navigate a{
+	padding-top: 15px;
+	padding-left: 6px;
+	padding-right: 2px;
+	font-size: 1.6em;
+}
+
+
+
+
+
+
